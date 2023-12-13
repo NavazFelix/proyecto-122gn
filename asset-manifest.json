@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/proyecto-122gn/static/css/main.2baa61ed.css",
+    "main.js": "/proyecto-122gn/static/js/main.e76b92ac.js",
+    "static/js/787.7dbffd68.chunk.js": "/proyecto-122gn/static/js/787.7dbffd68.chunk.js",
+    "static/media/cel3.jpg": "/proyecto-122gn/static/media/cel3.5a3a9cb66522d7a2dc48.jpg",
+    "static/media/fondo15.jpg": "/proyecto-122gn/static/media/fondo15.a8def379a41acebaa603.jpg",
+    "static/media/capivara1.jpg": "/proyecto-122gn/static/media/capivara1.b96a982a46c8018a2aa0.jpg",
+    "static/media/cel1.jpg": "/proyecto-122gn/static/media/cel1.dc85aa665b81d8b1ae84.jpg",
+    "static/media/cel5.jpg": "/proyecto-122gn/static/media/cel5.343edd1140756dda71d7.jpg",
+    "static/media/cel2.jpg": "/proyecto-122gn/static/media/cel2.a05a716bf2e30d68fe46.jpg",
+    "static/media/gato1.jpg": "/proyecto-122gn/static/media/gato1.1d2bf0d14eac022fc907.jpg",
+    "static/media/cel4.jpeg": "/proyecto-122gn/static/media/cel4.524bb6daef9e1564b7ee.jpeg",
+    "index.html": "/proyecto-122gn/index.html",
+    "main.2baa61ed.css.map": "/proyecto-122gn/static/css/main.2baa61ed.css.map",
+    "main.e76b92ac.js.map": "/proyecto-122gn/static/js/main.e76b92ac.js.map",
+    "787.7dbffd68.chunk.js.map": "/proyecto-122gn/static/js/787.7dbffd68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2baa61ed.css",
+    "static/js/main.e76b92ac.js"
+  ]
+}
